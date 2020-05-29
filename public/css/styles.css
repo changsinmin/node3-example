@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+}
+
+img {
+    width: 300px;
+}
+
+body {
+    color: #333333;
+    font-family: arial;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 16px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    background: lightblue;
+    margin: 16px;
+    padding: 16px;
+}
